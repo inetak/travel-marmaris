@@ -1,0 +1,314 @@
+#mainheader {
+	background: url(../images/Marmaris1.jpg) no-repeat center center;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	min-height: 100vh;
+	position: relative;
+}
+#mainheader header h1{
+	position: absolute;
+	top: 35%;
+	left: 55%;
+	transform: translate(-50%, -50%);
+	font-family: 'Simonetta', cursive;
+	padding:0 0 0 0;
+	color: white;
+	font-size: 500%;
+}
+.big{
+	font-size:100%;
+}
+#mainheader header p{
+	position: absolute;
+	top: 80%;
+	left: 70%;
+	transform: translate(-50%, -50%);
+	font-size: 150%;
+	padding:0 0 0 0;
+	font-family: 'Simonetta', cursive;
+	color: white;
+}
+.getaway{
+	font-size:130%;
+	color: #CCFF99;
+}
+.all{
+		color: #CCFF99;
+}
+
+#wheretogo {
+	padding-top: 40px;
+}
+.questions-white1{
+	font-family: 'Didact Gothic', sans-serif;
+	color: white;
+	font-size: 350%;
+	position: absolute;
+	top: 20%;
+	left: 30%;
+	transform: translate(-50%, -50%);
+}
+.answers-white1 {
+	font-family: 'Didact Gothic', sans-serif;
+	color: white;
+	font-size: 450%;
+	position: absolute;
+	top: 55%;
+	left: 20%;
+	transform: translate(-50%, -50%);
+}
+.questions-white2{
+	font-family: 'Didact Gothic', sans-serif;
+	color: white;
+	font-size: 350%;
+	position: absolute;
+	top: 20%;
+	left: 30%;
+	transform: translate(-50%, -50%);
+}
+.answers-white2 {
+	font-family: 'Didact Gothic', sans-serif;
+	color: white;
+	font-size: 450%;
+	position: absolute;
+	top: 45%;
+	left: 25%;
+	transform: translate(-50%, -50%);
+}
+.question-black {
+	font-family: 'Didact Gothic', sans-serif;
+	font-size: 350%;
+	position: absolute;
+	color: black;
+	position: absolute;
+	top: 20%;
+	left: 30%;
+	transform: translate(-50%, -50%);
+}
+.answer-black {
+	font-family: 'Didact Gothic', sans-serif;
+	font-size: 450%;
+	position: absolute;
+	top: 130px;
+	color: black;
+	position: absolute;
+	top: 55%;
+	left: 25%;
+	transform: translate(-50%, -50%);
+}
+
+.paragraph-text {
+	font-family: 'Didact Gothic', sans-serif;
+	font-size: 120%;
+	padding-top: 10px;
+	padding-bottom: 20px;
+	text-align: justify;
+}
+.picture-descrip {
+	font-family: 'Didact Gothic', sans-serif;
+	font-size: 120%;
+	padding-top: 10px;
+	padding-bottom: 20px;
+	text-align: center;
+}
+.recipe-continuing{
+	font-family: 'Didact Gothic', sans-serif;
+	font-size: 220%;
+	padding-top: 30px;
+	padding-bottom: 10px;
+	text-align: center;
+}
+.recipe-title{
+	font-family: 'Simonetta', cursive;
+	font-size: 450%;
+	padding-top: 0px;
+	padding-bottom: 20px;
+	text-align: center;
+}
+.aboutrecipe {
+	font-family: 'Didact Gothic', sans-serif;
+	font-size: 150%;
+	padding-top: 10px;
+	padding-bottom: 30px;
+	text-align: center;
+}
+.recipereview{
+	font-family: 'Simonetta', cursive;
+	font-size: 150%;
+	padding-top: 40px;
+	padding-bottom: 40px;
+	text-align: center;
+}
+.nutrition-table{
+	font-family: 'Didact Gothic', sans-serif;
+	font-size: 120%;
+	padding-top: 30px;
+	padding-bottom: 10px;
+}
+
+#ending {
+	background: url(../images/Marmaris05.jpg) no-repeat center center;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	min-height: 100vh;
+	position: relative;
+}
+#ending header h1 {
+	position: absolute;
+	top: 15%;
+	left: 70%;
+	transform: translate(-50%, -50%);
+	font-family: 'Simonetta', cursive;
+	padding:0 0 0 0;
+	color: black;
+	font-size: 450%;
+}
+#ending header p {
+	position: absolute;
+	top: 44%;
+	left: 60%;
+	transform: translate(-50%, -50%);
+	font-size: 300%;
+	padding:0 0 0 0;
+	font-family: 'Simonetta', cursive;
+	color: black;
+}
+.ending1 {
+	color:#66CCCC;
+}
+.ending2 {
+	color:#66CCCC;
+}
+#wheretogo a:link {
+	color: white;
+	text-decoration: none;
+}
+#wheretogo a:visited {
+	color: white;
+	text-decoration: none;
+}
+#wheretogo a:hover {
+	color: white;
+	text-decoration: underline;
+}
+#wheretogo a:active {
+	color: white;
+	text-decoration: underline;
+}
+#wheretostay a:link {
+	color: white;
+	text-decoration: none;
+}
+#wheretostay a:visited {
+	color: white;
+	text-decoration: none;
+}
+#wheretostay a:hover {
+	color: white;
+	text-decoration: underline;
+}
+#wheretostay a:active {
+	color: white;
+	text-decoration: underline;
+}
+a:link {
+	color: #660000;
+	text-decoration: none;
+}
+a:visited {
+	color: #ff4000;
+	text-decoration: none;
+}
+a:hover {
+	color: #cc0000;
+	text-decoration: underline;
+}
+a:active {
+	color: #cc0000;
+	text-decoration: underline;
+}
+
+/*XS*/
+@media (max-width: 767px) {
+	.questions-white1{
+		font-size: 23px;
+	}
+	.answers-white1{
+		font-size: 27px;
+	}
+	.questions-white2{
+		font-size: 23px;
+	}
+	.answers-white2{
+		font-size: 27px;
+	}
+	.question-black{
+		font-size: 23px;
+	}
+	.answer-black{
+		font-size: 27px;
+	}
+	.recipe-continuing{
+		font-size: 20px;
+	}
+	.recipe-title{
+		font-size: 25px;
+	}
+	.aboutrecipe {
+		font-size: 18px;
+	}
+	.recipereview{
+		font-size: 19px;
+	}
+	#mainheader header h1{
+		font-size:30px;
+	}
+	#mainheader header p{
+		font-size:20px;
+	}
+}
+/*SM*/
+@media (min-width: 768px) and (max-width: 991px) {
+	.questions-white1{
+		font-size: 30px;
+	}
+	.answers-white1{
+		font-size: 35px;
+	}
+	.questions-white2{
+		font-size: 30px;
+	}
+	.answers-white2{
+		font-size: 35px;
+	}
+	.question-black{
+		font-size: 30px;
+	}
+	.answer-black{
+		font-size: 35px;
+	}
+	.recipe-continuing{
+		font-size: 20px;
+	}
+	.recipe-title{
+		font-size: 29px;
+	}
+	.aboutrecipe {
+		font-size: 18px;
+	}
+	.recipereview{
+		font-size: 18px;
+	}
+}
+/*MD*/
+@media (min-width: 992px) and (max-width: 1199px) {
+
+}
+/*LG*/
+@media (min-width: 1200px) {
+
+}
